@@ -7,6 +7,7 @@
 
 Telegram交流反馈群组：https://t.me/eooceu
 
+## warining ：部署该项目，会直接导致huggingface 封号
 huggingface视频教程地址：https://youtu.be/XERxg9AODeo
 </div>
 
